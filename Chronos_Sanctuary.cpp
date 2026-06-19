@@ -1297,5 +1297,4 @@ int main()
     intro();
     directions(way, val1, gameState);
 
-    return 0;
-}
+    return 0;}
